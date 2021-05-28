@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\EscrevendoNoCelular\EscrevendoNoCelular.ConsoleApp\bin\Debug\EscrevendoNoCelular.ConsoleApp.exe.config
+C:\Users\pedro\source\repos\EscrevendoNoCelular\EscrevendoNoCelular.ConsoleApp\bin\Debug\EscrevendoNoCelular.ConsoleApp.exe
+C:\Users\pedro\source\repos\EscrevendoNoCelular\EscrevendoNoCelular.ConsoleApp\bin\Debug\EscrevendoNoCelular.ConsoleApp.pdb
+C:\Users\pedro\source\repos\EscrevendoNoCelular\EscrevendoNoCelular.ConsoleApp\obj\Debug\EscrevendoNoCelular.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\pedro\source\repos\EscrevendoNoCelular\EscrevendoNoCelular.ConsoleApp\obj\Debug\EscrevendoNoCelular.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\EscrevendoNoCelular\EscrevendoNoCelular.ConsoleApp\obj\Debug\EscrevendoNoCelular.ConsoleApp.exe
+C:\Users\pedro\source\repos\EscrevendoNoCelular\EscrevendoNoCelular.ConsoleApp\obj\Debug\EscrevendoNoCelular.ConsoleApp.pdb
+C:\Users\Lucas\Downloads\EscrevendoNoCelular\EscrevendoNoCelular.ConsoleApp\bin\Debug\EscrevendoNoCelular.ConsoleApp.exe.config
+C:\Users\Lucas\Downloads\EscrevendoNoCelular\EscrevendoNoCelular.ConsoleApp\bin\Debug\EscrevendoNoCelular.ConsoleApp.exe
+C:\Users\Lucas\Downloads\EscrevendoNoCelular\EscrevendoNoCelular.ConsoleApp\bin\Debug\EscrevendoNoCelular.ConsoleApp.pdb
+C:\Users\Lucas\Downloads\EscrevendoNoCelular\EscrevendoNoCelular.ConsoleApp\obj\Debug\EscrevendoNoCelular.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Lucas\Downloads\EscrevendoNoCelular\EscrevendoNoCelular.ConsoleApp\obj\Debug\EscrevendoNoCelular.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\EscrevendoNoCelular\EscrevendoNoCelular.ConsoleApp\obj\Debug\EscrevendoNoCelular.ConsoleApp.exe
+C:\Users\Lucas\Downloads\EscrevendoNoCelular\EscrevendoNoCelular.ConsoleApp\obj\Debug\EscrevendoNoCelular.ConsoleApp.pdb
